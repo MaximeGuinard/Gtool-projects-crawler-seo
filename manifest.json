@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Crawler SEO Gtool Projects",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+          "16": "images/icon16.png",
+          "48": "images/icon48.png",
+          "128": "images/icon128.png"
+        }
+      },
+      "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      },
+    "host_permissions": [
+      "https://seo.gtool.fr/*"
+    ],
+    "description": "A crawler to technically and semantically analyze your websites 🤖"
+  }
